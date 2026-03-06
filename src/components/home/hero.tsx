@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
-    <section className="h-screen">
-      <div className="w-full h-3/4 rounded-2xl bg-black">
+    <section className="h-[70vh]">
+      <div className="w-full h-11/12 rounded-2xl bg-black">
         <img
           src="/layout/logo/logo.png"
           alt=""
